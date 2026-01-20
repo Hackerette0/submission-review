@@ -25,5 +25,4 @@ Full-stack system for contributors to submit entries (with max 2 resubmissions) 
 - Submission: contributor, title, description, fileUrl, status, version, submittedAt, reviewedBy, reviewComment
 
 ## Live Deployment Links
-Frontend: https://your-vercel-app.vercel.app
-Backend: https://your-render-app.onrender.com
+
